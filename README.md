@@ -8,10 +8,23 @@ I. SKYRIUS
 
 II. SKYRIUS
 
-<ol>Komandos</ol>
-   <li>Lietuva</li>
-   <li>Ispanija</li>
+>Komandos
+>
+><ol>
+>   <li>Lietuva</li>
+>   <li>Ispanija</li>
+></ol>
 
-<ul>Komandos</ul>
-   <li>Lietuva</li>
-   <li>Ispanija</li>
+>Komandos
+><ul>
+>   <li>Lietuva</li>
+>   <li>Ispanija</li>
+></ul>
+
+* Treneris.
+* Vadovas.
+
+    > Komandos atributika.
+
+* *Sirgaliai.*
+* **Inventorius**
