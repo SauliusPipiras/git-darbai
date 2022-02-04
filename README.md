@@ -8,8 +8,10 @@ I. SKYRIUS
 
 II. SKYRIUS
 
-<ol Komandos>
-<li>Lietuva</li>
-<li>Ispanija</li>
+<ol>Komandos</ol>
+   <li>Lietuva</li>
+   <li>Ispanija</li>
 
-
+<ul>Komandos</ul>
+   <li>Lietuva</li>
+   <li>Ispanija</li>
